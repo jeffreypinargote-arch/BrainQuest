@@ -1,0 +1,44 @@
+const express = require('express');
+const path = require('path');
+const fs = require('fs');
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+// Middleware para entender JSON y servir archivos estáticos
+app.use(express.json());
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Ruta principal: Carga el juego
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'views', 'index.html'));
+});
+
+// API Endpoint: Devuelve las preguntas filtradas al frontend (Reemplaza utilidades/preguntas.py)
+app.get('/api/preguntas', (req, res) => {
+    const rutaPreguntas = path.join(__dirname, 'datos', 'preguntas.json');
+    
+    fs.readFile(rutaPreguntas, 'utf8', (err, data) => {
+        if (err) {
+            return res.status(500).json({ error: 'No se pudo leer el banco de preguntas.' });
+        }
+        try {
+            const preguntas = JSON.parse(data);
+            res.json(preguntas);
+        } catch (parseErr) {
+            res.status(500).json({ error: 'Error en el formato del JSON de preguntas.' });
+        }
+    });
+});
+
+// Espacio reservado para el ranking (Próxima conexión a MongoDB)
+app.post('/api/ranking', (req, res) => {
+    const datosPartida = req.body;
+    console.log("Datos recibidos para el ranking:", datosPartida);
+    // Aquí irá Mongoose/MongoDB más adelante. Por ahora respondemos éxito simulado:
+    res.json({ status: "success", message: "Partida recibida en el backend" });
+});
+
+app.listen(PORT, () => {
+    console.log(`🚀 Backend de Brain Quest corriendo en http://localhost:${PORT}`);
+});

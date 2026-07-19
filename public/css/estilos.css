@@ -1,0 +1,91 @@
+:root {
+    --bg: #111827;
+    --panel: #1f2937;
+    --boton: #2563eb;
+    --boton-hover: #1d4ed8;
+    --texto: #f9fafb;
+    --acento: #facc15;
+    --error: #dc2626;
+    --correcto: #16a34a;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    background-color: var(--bg);
+    color: var(--texto);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.contenedor-juego {
+    width: 100%;
+    max-width: 900px;
+    padding: 20px;
+}
+
+.tarjeta-modulo {
+    background-color: var(--panel);
+    border-radius: 12px;
+    padding: 40px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+h1 { color: var(--acento); font-size: 2.5rem; margin-bottom: 10px; }
+.subtitulo { color: #9ca3af; margin-bottom: 30px; }
+
+.formulario {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.grupo-input {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.grupo-input label { display: block; margin-bottom: 5px; font-weight: bold; }
+.grupo-input input {
+    width: 100%; padding: 12px; border-radius: 6px; border: 1px solid #4b5563;
+    background-color: var(--bg); color: white; text-align: center; font-size: 1.1rem;
+}
+
+.btn-principal, .btn-opcion {
+    background-color: var(--boton); color: white; border: none; padding: 14px 28px;
+    border-radius: 6px; font-weight: bold; font-size: 1.1rem; cursor: pointer; transition: background 0.2s;
+    width: 100%; margin-top: 10px;
+}
+.btn-principal:hover { background-color: var(--boton-hover); }
+
+.btn-opcion { background-color: #374151; margin-bottom: 12px; text-align: left; padding-left: 20px;}
+.btn-opcion:hover { background-color: #4b5563; border-left: 5px solid var(--acento); }
+
+.cuerpo-trivia { display: flex; gap: 30px; margin-top: 30px; align-items: center; }
+.area-bomba { flex: 1; }
+.area-pregunta { flex: 2; text-align: left; }
+
+#bomba-visual {
+    border-radius: 50%; width: 180px; height: 180px; margin: 0 auto;
+    display: flex; flex-direction: column; justify-content: center; align-items: center;
+    border: 4px solid white; transition: background-color 0.3s;
+}
+.bomba-gris { background-color: #374151; }
+.bomba-roja { background-color: var(--error); animation: pulso 0.5s infinite alternate; }
+
+#reloj-digital { font-size: 3.5rem; font-weight: bold; }
+
+.marcador-superior {
+    display: flex; justify-content: space-between; align-items: center;
+    background: #111827; padding: 15px; border-radius: 8px; margin-bottom: 20px;
+}
+.alerta-turno { font-size: 1.3rem; font-weight: bold; color: var(--acento); }
+
+.oculto { display: none !important; }
+
+@keyframes pulso {
+    from { transform: scale(1); } to { transform: scale(1.05); }
+}

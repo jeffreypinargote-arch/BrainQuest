@@ -1,0 +1,2497 @@
+[
+    {
+        "pregunta": "¿Cuál es la capital de Ecuador?",
+        "opciones": [
+            "Quito",
+            "Guayaquil",
+            "Cuenca",
+            "Manta"
+        ],
+        "respuesta": "Quito",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿En qué continent está Ecuador?",
+        "opciones": [
+            "América",
+            "Europa",
+            "Asia",
+            "África"
+        ],
+        "respuesta": "América",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": [
+            "Pacífico",
+            "Atlántico",
+            "Índico",
+            "Ártico"
+        ],
+        "respuesta": "Pacífico",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el planeta rojo?",
+        "opciones": [
+            "Marte",
+            "Venus",
+            "Júpiter",
+            "Mercurio"
+        ],
+        "respuesta": "Marte",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el satélite natural de la Tierra?",
+        "opciones": [
+            "La Luna",
+            "El Sol",
+            "Marte",
+            "Venus"
+        ],
+        "respuesta": "La Luna",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué gas necesitamos para respirar?",
+        "opciones": [
+            "Oxígeno",
+            "Hidrógeno",
+            "Helio",
+            "Dióxido de carbono"
+        ],
+        "respuesta": "Oxígeno",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué órgano bombea la sangre?",
+        "opciones": [
+            "Corazón",
+            "Pulmón",
+            "Cerebro",
+            "Hígado"
+        ],
+        "respuesta": "Corazón",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuántos días tiene una semana?",
+        "opciones": [
+            "7",
+            "6",
+            "5",
+            "8"
+        ],
+        "respuesta": "7",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuántos meses tiene un año?",
+        "opciones": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "respuesta": "12",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal es conocido como el rey de la selva?",
+        "opciones": [
+            "León",
+            "Tigre",
+            "Elefante",
+            "Jaguar"
+        ],
+        "respuesta": "León",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal produce miel?",
+        "opciones": [
+            "Abeja",
+            "Hormiga",
+            "Mariposa",
+            "Mosca"
+        ],
+        "respuesta": "Abeja",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal dice miau?",
+        "opciones": [
+            "Gato",
+            "Perro",
+            "Vaca",
+            "Caballo"
+        ],
+        "respuesta": "Gato",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué usamos para ver?",
+        "opciones": [
+            "Ojos",
+            "Oídos",
+            "Manos",
+            "Pies"
+        ],
+        "respuesta": "Ojos",
+        "categoria": "Cuerpo humano",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué sentido usamos para escuchar?",
+        "opciones": [
+            "Oído",
+            "Vista",
+            "Tacto",
+            "Olfato"
+        ],
+        "respuesta": "Oído",
+        "categoria": "Cuerpo humano",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué color se forma al mezclar azul y amarillo?",
+        "opciones": [
+            "Verde",
+            "Rojo",
+            "Morado",
+            "Negro"
+        ],
+        "respuesta": "Verde",
+        "categoria": "Arte",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuántos colores tiene normalmente el arcoíris?",
+        "opciones": [
+            "7",
+            "6",
+            "5",
+            "8"
+        ],
+        "respuesta": "7",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+        "opciones": [
+            "Portugués",
+            "Español",
+            "Inglés",
+            "Francés"
+        ],
+        "respuesta": "Portugués",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué país tiene forma de bota?",
+        "opciones": [
+            "Italia",
+            "España",
+            "Chile",
+            "México"
+        ],
+        "respuesta": "Italia",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el deporte más popular del mundo?",
+        "opciones": [
+            "Fútbol",
+            "Tenis",
+            "Béisbol",
+            "Golf"
+        ],
+        "respuesta": "Fútbol",
+        "categoria": "Deportes",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Con qué parte del cuerpo se patea una pelota?",
+        "opciones": [
+            "Pie",
+            "Mano",
+            "Codo",
+            "Rodilla"
+        ],
+        "respuesta": "Pie",
+        "categoria": "Deportes",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué objeto usamos para escribir en una hoja?",
+        "opciones": [
+            "Lápiz",
+            "Zapato",
+            "Vaso",
+            "Cepillo"
+        ],
+        "respuesta": "Lápiz",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué aparato usamos para llamar a otra persona?",
+        "opciones": [
+            "Teléfono",
+            "Televisor",
+            "Lavadora",
+            "Ventilador"
+        ],
+        "respuesta": "Teléfono",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué red social es famosa por videos cortos?",
+        "opciones": [
+            "TikTok",
+            "Excel",
+            "Paint",
+            "Word"
+        ],
+        "respuesta": "TikTok",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué se usa para navegar por internet?",
+        "opciones": [
+            "Navegador web",
+            "Calculadora",
+            "Reloj",
+            "Linterna"
+        ],
+        "respuesta": "Navegador web",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál de estos es un navegador web?",
+        "opciones": [
+            "Google Chrome",
+            "Photoshop",
+            "Minecraft",
+            "Spotify"
+        ],
+        "respuesta": "Google Chrome",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "opciones": [
+            "Ballena azul",
+            "Elefante",
+            "Jirafa",
+            "Tiburón blanco"
+        ],
+        "respuesta": "Ballena azul",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué parte de la planta absorbe agua del suelo?",
+        "opciones": [
+            "Raíz",
+            "Flor",
+            "Hoja",
+            "Fruto"
+        ],
+        "respuesta": "Raíz",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué estrella ilumina la Tierra durante el día?",
+        "opciones": [
+            "Sol",
+            "Luna",
+            "Marte",
+            "Saturno"
+        ],
+        "respuesta": "Sol",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 5 + 7?",
+        "opciones": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "respuesta": "12",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 8 x 3?",
+        "opciones": [
+            "24",
+            "21",
+            "26",
+            "18"
+        ],
+        "respuesta": "24",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 20 - 9?",
+        "opciones": [
+            "11",
+            "9",
+            "10",
+            "12"
+        ],
+        "respuesta": "11",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 10 x 10?",
+        "opciones": [
+            "100",
+            "10",
+            "50",
+            "1000"
+        ],
+        "respuesta": "100",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 30 dividido para 5?",
+        "opciones": [
+            "6",
+            "5",
+            "7",
+            "8"
+        ],
+        "respuesta": "6",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 9 + 9?",
+        "opciones": [
+            "18",
+            "16",
+            "17",
+            "19"
+        ],
+        "respuesta": "18",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué planeta está más cerca del Sol?",
+        "opciones": [
+            "Mercurio",
+            "Venus",
+            "Tierra",
+            "Marte"
+        ],
+        "respuesta": "Mercurio",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué instrumento se usa para medir la temperatura?",
+        "opciones": [
+            "Termómetro",
+            "Regla",
+            "Reloj",
+            "Brújula"
+        ],
+        "respuesta": "Termómetro",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué líquido bebemos para hidratarnos?",
+        "opciones": [
+            "Agua",
+            "Aceite",
+            "Gasolina",
+            "Alcohol"
+        ],
+        "respuesta": "Agua",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué fruta es amarilla y alargada?",
+        "opciones": [
+            "Banana",
+            "Manzana",
+            "Uva",
+            "Pera"
+        ],
+        "respuesta": "Banana",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el idioma principal de Ecuador?",
+        "opciones": [
+            "Español",
+            "Inglés",
+            "Portugués",
+            "Francés"
+        ],
+        "respuesta": "Español",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal ladra?",
+        "opciones": [
+            "Perro",
+            "Gato",
+            "Pez",
+            "Ave"
+        ],
+        "respuesta": "Perro",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué transporte vuela por el cielo?",
+        "opciones": [
+            "Avión",
+            "Barco",
+            "Tren",
+            "Bicicleta"
+        ],
+        "respuesta": "Avión",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué transporte navega en el mar?",
+        "opciones": [
+            "Barco",
+            "Avión",
+            "Bus",
+            "Tren"
+        ],
+        "respuesta": "Barco",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué usamos para protegernos de la lluvia?",
+        "opciones": [
+            "Paraguas",
+            "Sombrero de papel",
+            "Lentes",
+            "Guantes"
+        ],
+        "respuesta": "Paraguas",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué usamos para ver la hora?",
+        "opciones": [
+            "Reloj",
+            "Plato",
+            "Zapato",
+            "Puerta"
+        ],
+        "respuesta": "Reloj",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal vive en el agua y tiene aletas?",
+        "opciones": [
+            "Pez",
+            "Gato",
+            "Perro",
+            "Conejo"
+        ],
+        "respuesta": "Pez",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuántas patas tiene una araña?",
+        "opciones": [
+            "8",
+            "6",
+            "4",
+            "10"
+        ],
+        "respuesta": "8",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuántas patas tiene un perro?",
+        "opciones": [
+            "4",
+            "2",
+            "6",
+            "8"
+        ],
+        "respuesta": "4",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es el color del cielo en un día despejado?",
+        "opciones": [
+            "Azul",
+            "Rojo",
+            "Negro",
+            "Verde"
+        ],
+        "respuesta": "Azul",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué día viene después del lunes?",
+        "opciones": [
+            "Martes",
+            "Domingo",
+            "Viernes",
+            "Sábado"
+        ],
+        "respuesta": "Martes",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué día viene antes del domingo?",
+        "opciones": [
+            "Sábado",
+            "Lunes",
+            "Martes",
+            "Jueves"
+        ],
+        "respuesta": "Sábado",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué usamos para lavarnos los dientes?",
+        "opciones": [
+            "Cepillo dental",
+            "Cuchara",
+            "Peine",
+            "Tenedor"
+        ],
+        "respuesta": "Cepillo dental",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué alimento se hace principalmente con leche?",
+        "opciones": [
+            "Queso",
+            "Pan",
+            "Arroz",
+            "Pasta"
+        ],
+        "respuesta": "Queso",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es la primera letra del abecedario?",
+        "opciones": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "respuesta": "A",
+        "categoria": "Lenguaje",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es la última letra del abecedario español?",
+        "opciones": [
+            "Z",
+            "Y",
+            "X",
+            "W"
+        ],
+        "respuesta": "Z",
+        "categoria": "Lenguaje",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué número viene después del 9?",
+        "opciones": [
+            "10",
+            "8",
+            "11",
+            "12"
+        ],
+        "respuesta": "10",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 2 + 2?",
+        "opciones": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "respuesta": "4",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 6 x 4?",
+        "opciones": [
+            "24",
+            "20",
+            "22",
+            "26"
+        ],
+        "respuesta": "24",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuánto es 100 - 50?",
+        "opciones": [
+            "50",
+            "40",
+            "60",
+            "70"
+        ],
+        "respuesta": "50",
+        "categoria": "Matemática",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué planeta habitamos?",
+        "opciones": [
+            "Tierra",
+            "Marte",
+            "Venus",
+            "Júpiter"
+        ],
+        "respuesta": "Tierra",
+        "categoria": "Ciencia",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal tiene trompa?",
+        "opciones": [
+            "Elefante",
+            "León",
+            "Tigre",
+            "Caballo"
+        ],
+        "respuesta": "Elefante",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal da leche comúnmente en las granjas?",
+        "opciones": [
+            "Vaca",
+            "Perro",
+            "Gato",
+            "Gallina"
+        ],
+        "respuesta": "Vaca",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué animal pone huevos?",
+        "opciones": [
+            "Gallina",
+            "Vaca",
+            "Caballo",
+            "Perro"
+        ],
+        "respuesta": "Gallina",
+        "categoria": "Naturaleza",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué usamos para leer libros digitales o navegar?",
+        "opciones": [
+            "Computadora",
+            "Silla",
+            "Mesa",
+            "Cama"
+        ],
+        "respuesta": "Computadora",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué aplicación se usa mucho para enviar mensajes?",
+        "opciones": [
+            "WhatsApp",
+            "Excel",
+            "Paint",
+            "Calculadora"
+        ],
+        "respuesta": "WhatsApp",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué objeto se usa para tomar fotografías?",
+        "opciones": [
+            "Cámara",
+            "Radio",
+            "Parlante",
+            "Teclado"
+        ],
+        "respuesta": "Cámara",
+        "categoria": "Tecnología",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Colombia?",
+        "opciones": [
+            "Bogotá",
+            "Medellín",
+            "Cali",
+            "Cartagena"
+        ],
+        "respuesta": "Bogotá",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Perú?",
+        "opciones": [
+            "Lima",
+            "Cusco",
+            "Arequipa",
+            "Trujillo"
+        ],
+        "respuesta": "Lima",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Argentina?",
+        "opciones": [
+            "Buenos Aires",
+            "Rosario",
+            "Córdoba",
+            "Mendoza"
+        ],
+        "respuesta": "Buenos Aires",
+        "categoria": "Geografía",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué se celebra normalmente con una torta y velas?",
+        "opciones": [
+            "Cumpleaños",
+            "Examen",
+            "Lluvia",
+            "Viaje"
+        ],
+        "respuesta": "Cumpleaños",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "¿Qué se usa para cortar papel?",
+        "opciones": [
+            "Tijeras",
+            "Cuchara",
+            "Regla",
+            "Vaso"
+        ],
+        "respuesta": "Tijeras",
+        "categoria": "Cultura general",
+        "dificultad": "facil"
+    },
+    {
+        "pregunta": "Entre, Nadie y Ninguno compraron una casa. Nadie salió por la ventana y Ninguno por la puerta. ¿Quién quedó dentro de la casa?",
+        "opciones": [
+            "Entre",
+            "Alguien",
+            "Nadie",
+            "Ninguno"
+        ],
+        "respuesta": "Entre",
+        "categoria": "Acertijos",
+        "dificultad": "medio"
+    },
+    {
+        "categoria": "Acertijos",
+        "pregunta": "Este banco está ocupado por un padre y por un hijo. El padre se llama Juan, el hijo ya te lo he dicho. ¿Cómo se llama el hijo?",
+        "opciones": [
+            "Esteban",
+            "Juan",
+            "Juanito",
+            "Ocupado"
+        ],
+        "respuesta": "Esteban",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "Algunos meses tienen 30 días, otros tienen 31. ¿Cuántos meses tienen 28 días?",
+        "opciones": [
+            "12",
+            "1",
+            "0",
+            "Depende del año"
+        ],
+        "respuesta": "12",
+        "categoria": "Acertijos",
+        "dificultad": "medio"
+    },  
+    {
+        "pregunta": "Cuál es la capital de Francia?",
+        "opciones": [
+            "París",
+            "Madrid",
+            "Roma",
+            "Lisboa"
+        ],
+        "respuesta": "París",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": [
+            "Tokio",
+            "Seúl",
+            "Pekín",
+            "Bangkok"
+        ],
+        "respuesta": "Tokio",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital Buenos Aires?",
+        "opciones": [
+            "Argentina",
+            "Chile",
+            "Uruguay",
+            "Paraguay"
+        ],
+        "respuesta": "Argentina",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital Lima?",
+        "opciones": [
+            "Perú",
+            "Bolivia",
+            "Colombia",
+            "Venezuela"
+        ],
+        "respuesta": "Perú",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+            "Rusia",
+            "Canadá",
+            "China",
+            "Estados Unidos"
+        ],
+        "respuesta": "Rusia",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el continent con más países?",
+        "opciones": [
+            "África",
+            "Asia",
+            "Europa",
+            "América"
+        ],
+        "respuesta": "África",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+        "opciones": [
+            "Miguel de Cervantes",
+            "Gabriel García Márquez",
+            "Pablo Neruda",
+            "Jorge Luis Borges"
+        ],
+        "respuesta": "Miguel de Cervantes",
+        "categoria": "Literatura",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Quién pintó La Mona Lisa?",
+        "opciones": [
+            "Leonardo da Vinci",
+            "Pablo Picasso",
+            "Van Gogh",
+            "Miguel Ángel"
+        ],
+        "respuesta": "Leonardo da Vinci",
+        "categoria": "Arte",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Quién pintó La noche estrellada?",
+        "opciones": [
+            "Vincent van Gogh",
+            "Salvador Dalí",
+            "Claude Monet",
+            "Pablo Picasso"
+        ],
+        "respuesta": "Vincent van Gogh",
+        "categoria": "Arte",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué instrumento se usa para observar objetos muy pequeños?",
+        "opciones": [
+            "Microscopio",
+            "Telescopio",
+            "Termómetro",
+            "Brújula"
+        ],
+        "respuesta": "Microscopio",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué instrumento se usa para observar estrellas y planetas lejanos?",
+        "opciones": [
+            "Telescopio",
+            "Microscopio",
+            "Brújula",
+            "Cronómetro"
+        ],
+        "respuesta": "Telescopio",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico con símbolo O?",
+        "opciones": [
+            "Oxígeno",
+            "Oro",
+            "Osmio",
+            "Ozono"
+        ],
+        "respuesta": "Oxígeno",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el elemento químico con símbolo H?",
+        "opciones": [
+            "Hidrógeno",
+            "Helio",
+            "Hierro",
+            "Mercurio"
+        ],
+        "respuesta": "Hidrógeno",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": [
+            "Júpiter",
+            "Tierra",
+            "Marte",
+            "Saturno"
+        ],
+        "respuesta": "Júpiter",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué planeta tiene anillos muy visibles?",
+        "opciones": [
+            "Saturno",
+            "Mercurio",
+            "Venus",
+            "Marte"
+        ],
+        "respuesta": "Saturno",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+        "opciones": [
+            "Mercurio",
+            "Hierro",
+            "Oro",
+            "Plata"
+        ],
+        "respuesta": "Mercurio",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿En qué año llegó el ser humano a la Luna?",
+        "opciones": [
+            "1969",
+            "1965",
+            "1972",
+            "1980"
+        ],
+        "respuesta": "1969",
+        "categoria": "Historia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+        "opciones": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "respuesta": "George Washington",
+        "categoria": "Historia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué civilización construyó las pirámides de Giza?",
+        "opciones": [
+            "Egipcios",
+            "Romanos",
+            "Mayas",
+            "Griegos"
+        ],
+        "respuesta": "Egipcios",
+        "categoria": "Historia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿En qué país se originaron los Juegos Olímpicos antiguos?",
+        "opciones": [
+            "Grecia",
+            "Italia",
+            "Francia",
+            "Egipto"
+        ],
+        "respuesta": "Grecia",
+        "categoria": "Historia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la moneda oficial de Estados Unidos?",
+        "opciones": [
+            "Dólar",
+            "Euro",
+            "Peso",
+            "Libra"
+        ],
+        "respuesta": "Dólar",
+        "categoria": "Cultura general",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la moneda usada por muchos países de la Unión Europea?",
+        "opciones": [
+            "Euro",
+            "Dólar",
+            "Peso",
+            "Yen"
+        ],
+        "respuesta": "Euro",
+        "categoria": "Cultura general",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué deporte se juega en Wimbledon?",
+        "opciones": [
+            "Tenis",
+            "Fútbol",
+            "Golf",
+            "Béisbol"
+        ],
+        "respuesta": "Tenis",
+        "categoria": "Deportes",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuántos jugadores tiene un equipo de fútbol en cancha?",
+        "opciones": [
+            "11",
+            "9",
+            "10",
+            "12"
+        ],
+        "respuesta": "11",
+        "categoria": "Deportes",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿En qué deporte se utiliza una raqueta?",
+        "opciones": [
+            "Tenis",
+            "Fútbol",
+            "Natación",
+            "Atletismo"
+        ],
+        "respuesta": "Tenis",
+        "categoria": "Deportes",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿En qué deporte se encestan balones?",
+        "opciones": [
+            "Básquet",
+            "Fútbol",
+            "Voleibol",
+            "Golf"
+        ],
+        "respuesta": "Básquet",
+        "categoria": "Deportes",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué empresa creó Windows?",
+        "opciones": [
+            "Microsoft",
+            "Apple",
+            "Google",
+            "IBM"
+        ],
+        "respuesta": "Microsoft",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué empresa creó el iPhone?",
+        "opciones": [
+            "Apple",
+            "Samsung",
+            "Microsoft",
+            "Sony"
+        ],
+        "respuesta": "Apple",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué significa CPU?",
+        "opciones": [
+            "Unidad Central de Procesamiento",
+            "Cable Principal Universal",
+            "Control de Pantalla Único",
+            "Computadora Personal Universal"
+        ],
+        "respuesta": "Unidad Central de Procesamiento",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué dispositivo se usa para guardar archivos?",
+        "opciones": [
+            "Disco duro",
+            "Teclado",
+            "Monitor",
+            "Mouse"
+        ],
+        "respuesta": "Disco duro",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál de estos es un lenguaje de programación?",
+        "opciones": [
+            "Python",
+            "Windows",
+            "Chrome",
+            "Google"
+        ],
+        "respuesta": "Python",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué significa WWW?",
+        "opciones": [
+            "World Wide Web",
+            "Web Windows Word",
+            "World Work Web",
+            "Wide World Windows"
+        ],
+        "respuesta": "World Wide Web",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuánto es 15 x 6?",
+        "opciones": [
+            "90",
+            "80",
+            "85",
+            "95"
+        ],
+        "respuesta": "90",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuánto es 144 dividido para 12?",
+        "opciones": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "respuesta": "12",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la raíz cuadrada de 81?",
+        "opciones": [
+            "9",
+            "7",
+            "8",
+            "10"
+        ],
+        "respuesta": "9",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuánto es 25% de 200?",
+        "opciones": [
+            "50",
+            "25",
+            "40",
+            "75"
+        ],
+        "respuesta": "50",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuánto es 2 elevado a la 5?",
+        "opciones": [
+            "32",
+            "16",
+            "24",
+            "64"
+        ],
+        "respuesta": "32",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+            "Amazonas",
+            "Nilo",
+            "Misisipi",
+            "Yangtsé"
+        ],
+        "respuesta": "Amazonas",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Italia?",
+        "opciones": [
+            "Roma",
+            "Milán",
+            "Venecia",
+            "Florencia"
+        ],
+        "respuesta": "Roma",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué país es conocido como la tierra del sol naciente?",
+        "opciones": [
+            "Japón",
+            "China",
+            "Corea del Sur",
+            "Tailandia"
+        ],
+        "respuesta": "Japón",
+        "categoria": "Cultura general",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué océano baña las costas orientales de América del Norte?",
+        "opciones": [
+            "Atlántico",
+            "Pacífico",
+            "Índico",
+            "Ártico"
+        ],
+        "respuesta": "Atlántico",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿En qué país se encuentran las ruinas de Machu Picchu?",
+        "opciones": [
+            "Perú",
+            "Bolivia",
+            "Colombia",
+            "Ecuador"
+        ],
+        "respuesta": "Perú",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el mamífero volador más común?",
+        "opciones": [
+            "Murciélago",
+            "Ardilla voladora",
+            "Pájaro carpintero",
+            "Águila"
+        ],
+        "respuesta": "Murciélago",
+        "categoria": "Naturaleza",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué tipo de animal es la ballena?",
+        "opciones": [
+            "Mamífero",
+            "Pez",
+            "Anfibio",
+            "Reptil"
+        ],
+        "respuesta": "Mamífero",
+        "categoria": "Naturaleza",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cómo se llama el proceso por el cual las plantas producen su alimento?",
+        "opciones": [
+            "Fotosíntesis",
+            "Respiración",
+            "Evaporación",
+            "Polinización"
+        ],
+        "respuesta": "Fotosíntesis",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el componente principal del aire que respiramos?",
+        "opciones": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Argón",
+            "Dióxido de carbono"
+        ],
+        "respuesta": "Nitrógeno",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué grupo musical británico popularizó la canción 'Hey Jude'?",
+        "opciones": [
+            "The Beatles",
+            "The Rolling Stones",
+            "Queen",
+            "Led Zeppelin"
+        ],
+        "respuesta": "The Beatles",
+        "categoria": "Cultura general",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "opciones": [
+            "Fémur",
+            "Radio",
+            "Tibia",
+            "Húmero"
+        ],
+        "respuesta": "Fémur",
+        "categoria": "Cuerpo humano",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuántos corazones tiene un pulpo?",
+        "opciones": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "respuesta": "3",
+        "categoria": "Naturaleza",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué acontecimiento histórico comenzó en el año 1914?",
+        "opciones": [
+            "Primera Guerra Mundial",
+            "Segunda Guerra Mundial",
+            "Revolución Francesa",
+            "Descubrimiento de América"
+        ],
+        "respuesta": "Primera Guerra Mundial",
+        "categoria": "Historia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Quién es el autor de la tragedia 'Romeo y Julieta'?",
+        "opciones": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Homero",
+            "Miguel de Cervantes"
+        ],
+        "respuesta": "William Shakespeare",
+        "categoria": "Literatura",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es el sistema operativo móvil más utilizado del mundo?",
+        "opciones": [
+            "Android",
+            "iOS",
+            "Windows Phone",
+            "Symbian"
+        ],
+        "respuesta": "Android",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué significan las siglas de la memoria RAM?",
+        "opciones": [
+            "Random Access Memory",
+            "Read Absolute Manual",
+            "Rapid Active Module",
+            "Run Architecture Matrix"
+        ],
+        "respuesta": "Random Access Memory",
+        "categoria": "Tecnología",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué gas absorben las plantas durante el día para realizar la fotosíntesis?",
+        "opciones": [
+            "Dióxido de carbono",
+            "Oxígeno",
+            "Nitrógeno",
+            "Metano"
+        ],
+        "respuesta": "Dióxido de carbono",
+        "categoria": "Ciencia",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuántos grados tiene un ángulo recto?",
+        "opciones": [
+            "90",
+            "180",
+            "45",
+            "360"
+        ],
+        "respuesta": "90",
+        "categoria": "Matemática",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Qué país ganó el primer Mundial de Fútbol en 1930?",
+        "opciones": [
+            "Uruguay",
+            "Argentina",
+            "Brasil",
+            "Italia"
+        ],
+        "respuesta": "Uruguay",
+        "categoria": "Deportes",
+        "dificultad": "medio"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de España?",
+        "opciones": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla",
+            "Valencia"
+        ],
+        "respuesta": "Madrid",
+        "categoria": "Geografía",
+        "dificultad": "medio"
+    },
+    {
+    "pregunta": "El hermano de mi tío no es mi tío, ¿quién es de mi familia?",
+    "opciones": [
+        "Mi padre",
+        "Mi abuelo",
+        "Mi primo",
+        "Otro tío"
+    ],
+    "respuesta": "Mi padre",
+    "dificultad": "dificil"
+    }, 
+    {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": [
+            "Canberra",
+            "Sídney",
+            "Melbourne",
+            "Perth"
+        ],
+        "respuesta": "Canberra",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "opciones": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+        ],
+        "respuesta": "Ottawa",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Egipto?",
+        "opciones": [
+            "El Cairo",
+            "Alejandría",
+            "Luxor",
+            "Giza"
+        ],
+        "respuesta": "El Cairo",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Corea del Sur?",
+        "opciones": [
+            "Seúl",
+            "Tokio",
+            "Busan",
+            "Pekín"
+        ],
+        "respuesta": "Seúl",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital Estocolmo?",
+        "opciones": [
+            "Suecia",
+            "Noruega",
+            "Finlandia",
+            "Dinamarca"
+        ],
+        "respuesta": "Suecia",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital Reikiavik?",
+        "opciones": [
+            "Islandia",
+            "Irlanda",
+            "Noruega",
+            "Finlandia"
+        ],
+        "respuesta": "Islandia",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué desierto es el más grande del mundo?",
+        "opciones": [
+            "Antártico",
+            "Sahara",
+            "Gobi",
+            "Atacama"
+        ],
+        "respuesta": "Antártico",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es el océano más pequeño del mundo?",
+        "opciones": [
+            "Ártico",
+            "Índico",
+            "Atlántico",
+            "Pacífico"
+        ],
+        "respuesta": "Ártico",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué país está Machu Picchu?",
+        "opciones": [
+            "Perú",
+            "Ecuador",
+            "Bolivia",
+            "Colombia"
+        ],
+        "respuesta": "Perú",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué imperio construyó Machu Picchu?",
+        "opciones": [
+            "Inca",
+            "Azteca",
+            "Maya",
+            "Romano"
+        ],
+        "respuesta": "Inca",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién fue Napoleón Bonaparte?",
+        "opciones": [
+            "Un emperador francés",
+            "Un rey egipcio",
+            "Un filósofo griego",
+            "Un pintor italiano"
+        ],
+        "respuesta": "Un emperador francés",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "opciones": [
+            "1914",
+            "1912",
+            "1918",
+            "1939"
+        ],
+        "respuesta": "1914",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+        "opciones": [
+            "1945",
+            "1942",
+            "1950",
+            "1939"
+        ],
+        "respuesta": "1945",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué muro cayó en 1989?",
+        "opciones": [
+            "Muro de Berlín",
+            "Muralla China",
+            "Muro de Adriano",
+            "Muro de Troya"
+        ],
+        "respuesta": "Muro de Berlín",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién propuso la teoría de la relatividad?",
+        "opciones": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "respuesta": "Albert Einstein",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién formuló las leyes del movimiento y la gravedad clásica?",
+        "opciones": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Charles Darwin",
+            "Nikola Tesla"
+        ],
+        "respuesta": "Isaac Newton",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién planteó la teoría de la evolución por selección natural?",
+        "opciones": [
+            "Charles Darwin",
+            "Isaac Newton",
+            "Marie Curie",
+            "Louis Pasteur"
+        ],
+        "respuesta": "Charles Darwin",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué científica es conocida por sus estudios sobre la radiactividad?",
+        "opciones": [
+            "Marie Curie",
+            "Ada Lovelace",
+            "Rosalind Franklin",
+            "Jane Goodall"
+        ],
+        "respuesta": "Marie Curie",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la unidad básica de la vida?",
+        "opciones": [
+            "Célula",
+            "Átomo",
+            "Tejido",
+            "Órgano"
+        ],
+        "respuesta": "Célula",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué parte de la célula contiene el ADN?",
+        "opciones": [
+            "Núcleo",
+            "Membrana",
+            "Citoplasma",
+            "Mitocondria"
+        ],
+        "respuesta": "Núcleo",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué órgano produce insulina?",
+        "opciones": [
+            "Páncreas",
+            "Hígado",
+            "Riñón",
+            "Corazón"
+        ],
+        "respuesta": "Páncreas",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué planeta es el más caliente del sistema solar?",
+        "opciones": [
+            "Venus",
+            "Mercurio",
+            "Marte",
+            "Júpiter"
+        ],
+        "respuesta": "Venus",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la galaxia donde se encuentra la Tierra?",
+        "opciones": [
+            "Vía Láctea",
+            "Andrómeda",
+            "Sombrero",
+            "Triángulo"
+        ],
+        "respuesta": "Vía Láctea",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué significa ADN?",
+        "opciones": [
+            "Ácido desoxirribonucleico",
+            "Átomo de núcleo",
+            "Archivo de datos naturales",
+            "Análisis de nutrientes"
+        ],
+        "respuesta": "Ácido desoxirribonucleico",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién escribió Cien años de soledad?",
+        "opciones": [
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Julio Cortázar",
+            "Isabel Allende"
+        ],
+        "respuesta": "Gabriel García Márquez",
+        "categoria": "Literatura",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién escribió Romeo y Julieta?",
+        "opciones": [
+            "William Shakespeare",
+            "Miguel de Cervantes",
+            "Edgar Allan Poe",
+            "Homero"
+        ],
+        "respuesta": "William Shakespeare",
+        "categoria": "Literatura",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién escribió La Odisea?",
+        "opciones": [
+            "Homero",
+            "Sófocles",
+            "Platón",
+            "Aristóteles"
+        ],
+        "respuesta": "Homero",
+        "categoria": "Literatura",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién pintó Guernica?",
+        "opciones": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Van Gogh",
+            "Monet"
+        ],
+        "respuesta": "Pablo Picasso",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué artista es famoso por pintar relojes derretidos?",
+        "opciones": [
+            "Salvador Dalí",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "respuesta": "Salvador Dalí",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién compuso la Novena Sinfonía?",
+        "opciones": [
+            "Beethoven",
+            "Mozart",
+            "Bach",
+            "Chopin"
+        ],
+        "respuesta": "Beethoven",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué deporte se practica en el Tour de Francia?",
+        "opciones": [
+            "Ciclismo",
+            "Tenis",
+            "Atletismo",
+            "Natación"
+        ],
+        "respuesta": "Ciclismo",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuántos aros tiene el símbolo olímpico?",
+        "opciones": [
+            "5",
+            "4",
+            "6",
+            "7"
+        ],
+        "respuesta": "5",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué deporte se usa el término jaque mate?",
+        "opciones": [
+            "Ajedrez",
+            "Tenis",
+            "Boxeo",
+            "Béisbol"
+        ],
+        "respuesta": "Ajedrez",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué país ganó el Mundial de Fútbol 2022?",
+        "opciones": [
+            "Argentina",
+            "Francia",
+            "Brasil",
+            "Alemania"
+        ],
+        "respuesta": "Argentina",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué significa HTML?",
+        "opciones": [
+            "HyperText Markup Language",
+            "High Text Machine Language",
+            "Hyper Tool Multi Logic",
+            "Home Tool Markup Line"
+        ],
+        "respuesta": "HyperText Markup Language",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué significa RAM?",
+        "opciones": [
+            "Random Access Memory",
+            "Read Automatic Machine",
+            "Rapid Action Mode",
+            "Real Archive Memory"
+        ],
+        "respuesta": "Random Access Memory",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué es un algoritmo?",
+        "opciones": [
+            "Una secuencia de pasos para resolver un problema",
+            "Una pieza de hardware",
+            "Un tipo de pantalla",
+            "Una red social"
+        ],
+        "respuesta": "Una secuencia de pasos para resolver un problema",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué es una base de datos?",
+        "opciones": [
+            "Un lugar organizado para guardar información",
+            "Un cable de internet",
+            "Una tarjeta gráfica",
+            "Un virus"
+        ],
+        "respuesta": "Un lugar organizado para guardar información",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué lenguaje se usa mucho para dar interactividad a páginas web?",
+        "opciones": [
+            "JavaScript",
+            "Excel",
+            "Photoshop",
+            "PowerPoint"
+        ],
+        "respuesta": "JavaScript",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuánto es 12 x 15?",
+        "opciones": [
+            "180",
+            "160",
+            "170",
+            "190"
+        ],
+        "respuesta": "180",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es el resultado de 3² + 4²?",
+        "opciones": [
+            "25",
+            "12",
+            "18",
+            "30"
+        ],
+        "respuesta": "25",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuánto es el 15% de 300?",
+        "opciones": [
+            "45",
+            "30",
+            "35",
+            "40"
+        ],
+        "respuesta": "45",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "Si x + 8 = 20, ¿cuánto vale x?",
+        "opciones": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "respuesta": "12",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuánto es 7 x 8 + 10?",
+        "opciones": [
+            "66",
+            "56",
+            "60",
+            "70"
+        ],
+        "respuesta": "66",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la raíz cuadrada de 144?",
+        "opciones": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "respuesta": "12",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuánto es 240 dividido para 16?",
+        "opciones": [
+            "15",
+            "12",
+            "14",
+            "18"
+        ],
+        "respuesta": "15",
+        "categoria": "Matemática",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
+        "opciones": [
+            "Wellington",
+            "Auckland",
+            "Christchurch",
+            "Hamilton"
+        ],
+        "respuesta": "Wellington",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Turquía?",
+        "opciones": [
+            "Ankara",
+            "Estambul",
+            "Esmirna",
+            "Antalya"
+        ],
+        "respuesta": "Ankara",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Marruecos?",
+        "opciones": [
+            "Rabat",
+            "Casablanca",
+            "Marrakech",
+            "Fez"
+        ],
+        "respuesta": "Rabat",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de India?",
+        "opciones": [
+            "Nueva Delhi",
+            "Bombay",
+            "Calcuta",
+            "Bangalore"
+        ],
+        "respuesta": "Nueva Delhi",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital a Helsinki?",
+        "opciones": [
+            "Finlandia",
+            "Suecia",
+            "Noruega",
+            "Polonia"
+        ],
+        "respuesta": "Finlandia",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué país tiene como capital a Varsovia?",
+        "opciones": [
+            "Polonia",
+            "Ucrania",
+            "Hungría",
+            "Rumanía"
+        ],
+        "respuesta": "Polonia",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué cordillera atraviesa varios países de Sudamérica?",
+        "opciones": [
+            "Los Andes",
+            "Alpes",
+            "Himalaya",
+            "Rocosas"
+        ],
+        "respuesta": "Los Andes",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué canal une el océano Atlántico con el Pacífico?",
+        "opciones": [
+            "Canal de Panamá",
+            "Canal de Suez",
+            "Canal de la Mancha",
+            "Canal de Corinto"
+        ],
+        "respuesta": "Canal de Panamá",
+        "categoria": "Geografía",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué filósofo fue maestro de Alejandro Magno?",
+        "opciones": [
+            "Aristóteles",
+            "Platón",
+            "Sócrates",
+            "Epicuro"
+        ],
+        "respuesta": "Aristóteles",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué ciudad fue destruida por el Vesubio en el año 79?",
+        "opciones": [
+            "Pompeya",
+            "Atenas",
+            "Cartago",
+            "Troya"
+        ],
+        "respuesta": "Pompeya",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién fue conocido como el Libertador en Sudamérica?",
+        "opciones": [
+            "Simón Bolívar",
+            "San Martín",
+            "Eloy Alfaro",
+            "Benito Juárez"
+        ],
+        "respuesta": "Simón Bolívar",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué país ocurrió la Revolución Francesa?",
+        "opciones": [
+            "Francia",
+            "Italia",
+            "España",
+            "Alemania"
+        ],
+        "respuesta": "Francia",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál fue una de las culturas precolombinas de Mesoamérica?",
+        "opciones": [
+            "Maya",
+            "Vikinga",
+            "Persa",
+            "Romana"
+        ],
+        "respuesta": "Maya",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué estructura china es famosa por su gran longitud?",
+        "opciones": [
+            "Gran Muralla China",
+            "Torre de Shanghái",
+            "Templo del Cielo",
+            "Ciudad Prohibida"
+        ],
+        "respuesta": "Gran Muralla China",
+        "categoria": "Historia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué partícula tiene carga negativa?",
+        "opciones": [
+            "Electrón",
+            "Protón",
+            "Neutrón",
+            "Fotón"
+        ],
+        "respuesta": "Electrón",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué partícula tiene carga positiva?",
+        "opciones": [
+            "Protón",
+            "Electrón",
+            "Neutrón",
+            "Molécula"
+        ],
+        "respuesta": "Protón",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "opciones": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Hg"
+        ],
+        "respuesta": "Au",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Cuál es el símbolo químico de la plata?",
+        "opciones": [
+            "Ag",
+            "Au",
+            "Pt",
+            "Pb"
+        ],
+        "respuesta": "Ag",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué gas es más abundante en la atmósfera terrestre?",
+        "opciones": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Argón",
+            "Dióxido de carbono"
+        ],
+        "respuesta": "Nitrógeno",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué proceso convierte líquido en gas?",
+        "opciones": [
+            "Evaporación",
+            "Condensación",
+            "Congelación",
+            "Fusión"
+        ],
+        "respuesta": "Evaporación",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué proceso convierte gas en líquido?",
+        "opciones": [
+            "Condensación",
+            "Evaporación",
+            "Sublimación",
+            "Fusión"
+        ],
+        "respuesta": "Condensación",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué órgano controla principalmente el equilibrio?",
+        "opciones": [
+            "Oído interno",
+            "Corazón",
+            "Pulmón",
+            "Hígado"
+        ],
+        "respuesta": "Oído interno",
+        "categoria": "Ciencia",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién escribió La Divina Comedia?",
+        "opciones": [
+            "Dante Alighieri",
+            "Homero",
+            "Cervantes",
+            "Shakespeare"
+        ],
+        "respuesta": "Dante Alighieri",
+        "categoria": "Literatura",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién escribió El Principito?",
+        "opciones": [
+            "Antoine de Saint-Exupéry",
+            "Julio Verne",
+            "Victor Hugo",
+            "Albert Camus"
+        ],
+        "respuesta": "Antoine de Saint-Exupéry",
+        "categoria": "Literatura",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Quién pintó Las meninas?",
+        "opciones": [
+            "Diego Velázquez",
+            "Goya",
+            "Picasso",
+            "Dalí"
+        ],
+        "respuesta": "Diego Velázquez",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué movimiento artístico se asocia con Picasso?",
+        "opciones": [
+            "Cubismo",
+            "Impresionismo",
+            "Barroco",
+            "Realismo"
+        ],
+        "respuesta": "Cubismo",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué compositor fue conocido como el niño prodigio de Salzburgo?",
+        "opciones": [
+            "Mozart",
+            "Beethoven",
+            "Bach",
+            "Vivaldi"
+        ],
+        "respuesta": "Mozart",
+        "categoria": "Arte",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué deporte combina natación, ciclismo y carrera?",
+        "opciones": [
+            "Triatlón",
+            "Decatlón",
+            "Pentatlón",
+            "Maratón"
+        ],
+        "respuesta": "Triatlón",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿En qué deporte se compite en Grand Slam como Roland Garros?",
+        "opciones": [
+            "Tenis",
+            "Golf",
+            "Ciclismo",
+            "Ajedrez"
+        ],
+        "respuesta": "Tenis",
+        "categoria": "Deportes",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué significa HTTP?",
+        "opciones": [
+            "HyperText Transfer Protocol",
+            "High Text Transfer Program",
+            "Hyper Tool Text Page",
+            "Home Transfer Text Protocol"
+        ],
+        "respuesta": "HyperText Transfer Protocol",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    },
+    {
+        "pregunta": "¿Qué significa IP en redes?",
+        "opciones": [
+            "Internet Protocol",
+            "Internal Program",
+            "Input Process",
+            "Interface Port"
+        ],
+        "respuesta": "Internet Protocol",
+        "categoria": "Tecnología",
+        "dificultad": "dificil"
+    }
+]
