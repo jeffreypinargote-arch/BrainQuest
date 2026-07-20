@@ -1,0 +1,13 @@
+{
+  "name": "brainquest-web",
+  "version": "0.4.0",
+  "description": "Adaptación Web de Brain Quest con arquitectura de Proxy Inverso",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0"
+  }
+}

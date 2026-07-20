@@ -1,0 +1,26 @@
+services:
+  mongo:
+    image: mongo:4.4
+    container_name: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    networks:
+      - brainquest-net
+
+  brainquest:
+    build: .
+    container_name: brainquest
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    networks:
+      - brainquest-net
+
+  
+networks:
+  brainquest-net:
+    driver: bridge
+

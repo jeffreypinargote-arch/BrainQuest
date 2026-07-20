@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💣 BRAIN QUEST web 💣</title>
+    <link rel="stylesheet" href="/css/estilos.css">
+</head>
+<body>
+
+    <div class="contenedor-juego">
+        <div id="pantalla-inicio" class="tarjeta-modulo">
+            <h1>💣 BRAIN QUEST 💣</h1>
+            <p class="subtitulo">Modo 1 vs 1 — Adaptación Proxy Inverso</p>
+            
+            <div class="formulario">
+                <div class="grupo-input">
+                    <label>Jugador 1:</label>
+                    <input type="text" id="j1-nombre" placeholder="Nombre J1" autocomplete="off">
+                </div>
+                <div class="grupo-input">
+                    <label>Jugador 2:</label>
+                    <input type="text" id="j2-nombre" placeholder="Nombre J2" autocomplete="off">
+                </div>
+                <button id="btn-comenzar" class="btn-principal">Iniciar Enfrentamiento</button>
+            </div>
+        </div>
+
+        <div id="pantalla-juego" class="tarjeta-modulo oculto">
+            <div class="marcador-superior">
+                <div id="turno-alerta" class="alerta-turno">TURNO DE: <span id="jugador-actual">-</span></div>
+                <div class="puntuaciones">
+                    <span id="txt-j1">J1: 0 pts</span> | <span id="txt-j2">J2: 0 pts</span>
+                </div>
+            </div>
+
+            <div class="cuerpo-trivia">
+                <div class="area-bomba">
+                    <div id="bomba-visual" class="bomba-gris">
+                        <span id="reloj-digital">15</span>
+                        <p id="bomba-estado">Bomba Activa</p>
+                    </div>
+                </div>
+
+                <div class="area-pregunta">
+                    <h2 id="pregunta-texto">¿Cargando pregunta?</h2>
+                    <div id="contenedor-opciones" class="lista-opciones">
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="pantalla-final" class="tarjeta-modulo oculto">
+            <h2>⚔️ Fin del Enfrentamiento ⚔️</h2>
+            <div id="resultado-ganador" class="ganador-box"></div>
+            <button onclick="location.reload()" class="btn-principal">🔄 Revancha</button>
+        </div>
+    </div>
+
+    <script src="/js/cliente.js"></script>
+</body>
+</html>
